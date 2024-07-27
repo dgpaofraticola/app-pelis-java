@@ -1,0 +1,6 @@
+Barbie,2023,true
+Encanto,2021,false
+Trolls 3,2023,true
+Jason X,2001,false
+The Marvels,2023,true
+coco,2020,false
